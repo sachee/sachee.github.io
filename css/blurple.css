@@ -1014,7 +1014,7 @@ img.green-blob {
   bottom: -80px;
   z-index: 0;
   display: block;
-  background-image: url("../img/blobs/green-dots.png");
+  background-image: url("../img/blobs/yellow_dots.png");
   background-position: 0% 0%;
   background-size: 402px;
 }
@@ -1782,7 +1782,7 @@ img.green-blob {
 .dotted-pattern {
   position: absolute;
   z-index: 0;
-  background-image: url("../img/blobs/green-dots.png");
+  background-image: url("../img/blobs/yellow_dots.png");
   background-position: 0px 0px;
   background-size: 402px;
 }
@@ -3480,7 +3480,7 @@ img.green-blob {
 }
 .btn02 .ovrly {
     position: absolute;
-    background: rgba(24, 86, 254, .85);
+    background: rgba(80, 78, 242, .85);
     height: 100%;
     left: -100%;
     top: 0;
